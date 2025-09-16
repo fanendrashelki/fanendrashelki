@@ -34,11 +34,13 @@ I specialize in the **MERN stack** and love building everything from **RESTful A
 ### 🎨 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </p>
 
 ### ⚙️ Backend  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ### 🗄️ Database  
