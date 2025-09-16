@@ -70,9 +70,10 @@ I specialize in the **MERN stack** and love building everything from **RESTful A
 
 ## 🌟 Featured Projects  
 
-- 🚀 [**Bookkeeping Service API**](#) – Multilingual, Firebase-integrated, role-based library system  
-- 🛒 [**E-Commerce**](https://github.com/fanendrashelki/Ecommerce) – MERN app with nested categories, product ratings & filtering  
-  
+- 🚀 [**Movies Streaming Website**](https://github.com/fanendrashelki/Movies_Streaming-_Website) – A full-stack platform for streaming movies online with multilingual support, Firebase-powered media storage, JWT authentication, and role-based access control for users. Built with **React.js, Node.js, Express, and MongoDB**.  
+
+- 🛒 [**E-Commerce**](https://github.com/fanendrashelki/Ecommerce) – A scalable MERN eCommerce application featuring nested category management, product filtering, ratings & reviews, and responsive UI. Integrated with **React, Node.js, Express, MongoDB, and Material-UI** for a smooth shopping experience.  
+
 
 ---
 
