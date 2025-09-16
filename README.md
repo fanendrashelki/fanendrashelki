@@ -80,7 +80,7 @@ I specialize in the **MERN stack** and love building everything from **RESTful A
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fanendra-shelki" target="_blank">
+  <a href="https://www.linkedin.com/in/fanendra-shelki-031a04191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/fanendrashelki" target="_blank">
