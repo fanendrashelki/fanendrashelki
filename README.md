@@ -71,8 +71,8 @@ I specialize in the **MERN stack** and love building everything from **RESTful A
 ## 🌟 Featured Projects  
 
 - 🚀 [**Bookkeeping Service API**](#) – Multilingual, Firebase-integrated, role-based library system  
-- 🛒 [**E-Commerce Platform**](#) – MERN app with nested categories, product ratings & filtering  
-- 📝 [**Blog Management System**](#) – Full CRUD with authentication & responsive React UI  
+- 🛒 [**E-Commerce**](https://github.com/fanendrashelki/Ecommerce) – MERN app with nested categories, product ratings & filtering  
+  
 
 ---
 
